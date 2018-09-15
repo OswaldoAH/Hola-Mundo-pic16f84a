@@ -1,0 +1,4 @@
+Warning[205] C:\USERS\MYNOR\MPLABXPROJECTS\HOLA_MUNDO.X\HOLA_MUNDO.ASM 1 : Found directive in column 1. (list)
+Warning[207] C:\USERS\MYNOR\MPLABXPROJECTS\HOLA_MUNDO.X\HOLA_MUNDO.ASM 6 : Found label after column 1. (contador)
+Message[302] C:\USERS\MYNOR\MPLABXPROJECTS\HOLA_MUNDO.X\HOLA_MUNDO.ASM 10 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] C:\USERS\MYNOR\MPLABXPROJECTS\HOLA_MUNDO.X\HOLA_MUNDO.ASM 27 : Found directive in column 1. (END)
